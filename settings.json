@@ -1,0 +1,48 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "files.autoSave": "onFocusChange",
+    "workbench.settings.editor": "json",
+        // "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+        "workbench.startupEditor": "newUntitledFile",
+        "git.ignoreMissingGitWarning": true,
+        // "workbench.statusBar.feedback.visible": true,
+        "workbench.sideBar.location": "right",
+        "window.menuBarVisibility": "toggle",
+        "liveServer.settings.donotShowInfoMsg": true,
+				"workbench.activityBar.visible": false,
+        "workbench.statusBar.visible": true,
+        "editor.minimap.enabled": false,
+        "editor.fontSize": 16,
+        "files.defaultLanguage": "html",
+        "editor.tabSize": 2,
+        "workbench.editor.tabSizing": "shrink",
+        "editor.detectIndentation": false,
+             "editor.insertSpaces": false,
+             "editor.folding": false,
+             "editor.glyphMargin": false,
+             "editor.smoothScrolling": true,
+    
+        "vsicons.dontShowNewVersionMessage": true,
+        "terminal.integrated.rendererType": "dom",
+        "editor.formatOnPaste": true,
+        "editor.multiCursorModifier": "ctrlCmd",
+        "editor.snippetSuggestions": "top",
+        "[django-html]": {  
+            
+				},
+				"explorer.confirmDelete": false,
+				"window.zoomLevel": 0,
+				"C_Cpp.updateChannel": "Insiders",
+				"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+				"workbench.colorTheme": "Oceanic Plus",
+
+				"liveSassCompile.settings.formats": [
+					{
+						"format": "expanded",
+						"extensionName": ".css",
+						"savePath": "./css/"
+					}
+				],
+				"explorer.confirmDragAndDrop": false
+    
+}
